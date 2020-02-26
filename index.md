@@ -2,4 +2,4 @@ Open Source development by [Gralfim](https://github.com/orgs/OpenGrabeso/people/
 
 -------------------
 
-Profile picture based on icon by [surang](https://www.flaticon.com/authors/surang) from www.flaticon.com
+Profile picture based on icon by [surang](https://www.flaticon.com/authors/surang) from [www.flaticon.com](https://www.flaticon.com)
