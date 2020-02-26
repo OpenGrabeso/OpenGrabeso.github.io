@@ -1,4 +1,4 @@
-Open Source development by [Gralfim](https://github.com/orgs/OpenGrabeso/people/Gralfim), [Bebul](https://github.com/orgs/OpenGrabeso/people/Bebul) and [Suma](https://github.com/orgs/OpenGrabeso/people/OndrejSpanel)
+Open Source development [GitHub team](https://github.com/OpenGrabeso): [Gralfim](https://github.com/orgs/OpenGrabeso/people/Gralfim), [Bebul](https://github.com/orgs/OpenGrabeso/people/Bebul) and [Suma](https://github.com/orgs/OpenGrabeso/people/OndrejSpanel)
 
 -------------------
 
